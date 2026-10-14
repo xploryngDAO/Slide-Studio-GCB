@@ -1,0 +1,8 @@
+{
+  "name": "SlideStudio v2",
+  "description": "Um app para editar apresentações em HTML ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

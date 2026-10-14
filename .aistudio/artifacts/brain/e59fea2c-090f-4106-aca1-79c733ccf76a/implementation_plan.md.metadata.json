@@ -1,0 +1,6 @@
+{
+  "summary":  "Plano de implementação detalhado para o editor visual e inteligente de apresentações de slides HTML. Inclui upload de HTML existente, renderização interativa em iframe/canvas seguro, seleção direta de elementos (textos, imagens, formas, métricas, containers), barra lateral de estilização não técnica (cores, tipografia, espaçamentos, layouts, temas pré-configurados), assistente IA (reescrita, expansão, tradução, criação de novos slides, sugestão de temas e visualização de dados/gráficos) e exportação em HTML auto-contido de alta qualidade para download e modo apresentação fullscreen.",
+  "updatedAt":  "2026-09-28T18:08:01.490820127Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
